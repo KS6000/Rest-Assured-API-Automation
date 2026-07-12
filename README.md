@@ -2,7 +2,7 @@
 
 REST Assured API Automation Framework demonstrating REST API testing with Java, TestNG, Maven, assertions, JSON validation and API test evidence.
 
-
+[![Rest Assured API Automation](https://github.com/KS6000/Rest-Assured-API-Automation/actions/workflows/rest-assured-api.yml/badge.svg)](https://github.com/KS6000/Rest-Assured-API-Automation/actions/workflows/rest-assured-api.yml)
 
 ---
 
